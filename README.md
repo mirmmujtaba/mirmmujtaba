@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mirmmujtaba
 - 👀 I’m interested in how Machine Learning and Artificial Intelligence can be used to achieve feats which are humanly impossible.
 - 🌱 I’m currently pursuing my Master's in Data Science from Indiana University Bloomington
-- 💞️ I’m currently looking for an internship opportunity.
+- 💞️ I’m currently looking for summer internship opportunity.
 - 📫 You can reach me on my LinkedIn: ***linkedin.com/in/mirmmujtaba/***
 
 <!---
